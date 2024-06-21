@@ -58,6 +58,6 @@ The goal of this project is to provide a classic and educational chess experienc
 
 This project was developed by [Gabriel Conceição](https://github.com/gabrielssconceicao)
 
-## Licence
+## License
 
 This project is licensed under the [MIT License](./LICENSE).
